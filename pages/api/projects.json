@@ -1,0 +1,57 @@
+[
+    {
+    "id": 1,
+    "name": "aws-node-samples",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "AWS Lambda Samples using NodeJS. List of samples ",
+    "tags": ["react", "node", "AWS", "r", "crud-http-api", "paginate-dynamodb"],
+    "source_code": "https://github.com/mirelse/AWS-Node",
+    "demo": ""
+  },
+  {
+    "id": 2,
+    "name": "Tic-Tac-Toe-Game",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.",
+    "tags": [" javascript, css,  html5,  Hosted on Netlify "],
+    "source_code": "https://github.com/mirelse/Tic-Tac-Toe-Game",
+    "demo": "https://inspiring-licorice-323bae.netlify.app/"
+  },
+    {
+    "id": 3,
+    "name": "Mumblrtum",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Tumblr Theme Tamplate",
+    "tags": ["html"],
+    "source_code": "https://github.com/mirelse/Tic-Tac-Toe-Game",
+    "demo": "https://mumblrtum.tumblr.com/"
+  },
+    {
+    "id": 4,
+    "name": "Resume site",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "My resumewebsite with github pages. ",
+    "tags": ["javascript", "node", "mongodb", "tailwind", "react-query"],
+    "source_code": "https://github.com/mirelse/mirelse.github.io-old",
+    "demo": "https://mirelse.github.io/resume/index.html/"
+  },
+    {
+    "id": 5,
+    "name": "Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "This is the source code for my personal website.",
+    "tags": ["next","html5","css3", "figma","responsive design", "sass"],
+    "source_code": "https://github.com/mirelse/Tic-Tac-Toe-Game",
+    "demo": "https://mirelse.github.io/"
+  },
+
+  {
+    "id": 6,
+    "name": "VSCode Portfolio",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "",
+    "demo": ""
+  }
+]
