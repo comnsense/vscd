@@ -12,7 +12,7 @@ export default function HomePage() {
         </div>
         <div className={styles.foreground}>
           <div className={styles.content}>
-            <h1 className={styles.name}>Mirela Yosifova</h1>
+            <h1 className={styles.name}> Mirela Yosifova </h1>
             <h6 className={styles.bio}>my github pages portfolio website <br>
               
             </br>for showcasing both of my repos and my academic works as well. </h6>
