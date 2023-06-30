@@ -4,7 +4,7 @@ const contactItems = [
   {
     social: 'website',
     link: '@comnsense',
-    href: 'https://mirelse.github.io',
+    href: 'https://comnsense.github.io',
   },
   {
     social: 'email',
@@ -13,13 +13,13 @@ const contactItems = [
   },
   {
     social: 'github',
-    link: 'mirelse',
-    href: 'https://github.com/mirelse',
+    link: 'comnsense',
+    href: 'https://github.com/comnsense',
   },
   {
     social: 'linkedin',
     link: 'Mirela Yosifova',
-    href: 'https://www.linkedin.com/in/mirelsewhere/',
+    href: 'https://www.linkedin.com/in/comnsensewhere/',
   },
   {
     social: 'twitter',
@@ -39,8 +39,8 @@ const contactItems = [
   },
   {
     social: 'codepen',
-    link: 'mirelse',
-    href: 'https://codepen.io/mirelse',
+    link: 'comnsense',
+    href: 'https://codepen.io/comnsense',
   },
 
 ];

@@ -6,6 +6,6 @@
   ],
   "settings": {
     "nuxt.isNuxtApp": false,
-    "gitdoc.enabled": false
+    "gitdoc.enabled": true
   }
 }

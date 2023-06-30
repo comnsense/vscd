@@ -1,57 +1,77 @@
 [
-    {
+  {
+    "id": 4,
+    "name": "Resume site",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "My resumewebsite with github pages. ",
+    "tags": ["javascript", "node", "mongodb", "tailwind", "react-query"],
+    "source_code": "https://github.com/comnsense/Resume",
+    "demo": "https://resume-comnsense.netlify.app/"
+  },
+
+  {
     "id": 1,
     "name": "aws-node-samples",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "AWS Lambda Samples using NodeJS. List of samples ",
     "tags": ["react", "node", "AWS", "r", "crud-http-api", "paginate-dynamodb"],
-    "source_code": "https://github.com/mirelse/AWS-Node",
-    "demo": ""
+    "source_code": "https://github.com/comnsense/AWS-Node",
+    "demo": "https://github.com/comnsense/AWS-Node"
   },
+
+  {
+    "id": 7,
+    "name": "Rock Paper And Scissor",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "A themeable and developer-centric portfolio based on the VSCode",
+    "tags": ["next", "css-modules"],
+    "source_code": "https://github.com/comnsense/lame-games/tree/main/rock-paper-scissors-master/",
+    "demo": "https://comnsense.github.io/lame-games/rock-paper-scissors-master/index.html"
+  },
+
+
   {
     "id": 2,
     "name": "Tic-Tac-Toe-Game",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.",
     "tags": [" javascript, css,  html5,  Hosted on Netlify "],
-    "source_code": "https://github.com/mirelse/Tic-Tac-Toe-Game",
-    "demo": "https://inspiring-licorice-323bae.netlify.app/"
+    "source_code": "https://github.com/comnsense/Tic-Tac-Toe-Game",
+    "demo": "https://comnsense.github.io/Tic-Tac-Toe-Game/"
   },
     {
     "id": 3,
-    "name": "Mumblrtum",
+    "name": "Black & White",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "Tumblr Theme Tamplate",
-    "tags": ["html"],
-    "source_code": "https://github.com/mirelse/Tic-Tac-Toe-Game",
-    "demo": "https://mumblrtum.tumblr.com/"
+    "tags": ["html, GAME"],
+    "source_code": "https://github.com/comnsense/lame-games/tree/main/blkandwht",
+    "demo": "https://comnsense.github.io/lame-games/blkandwht/index.html"
   },
-    {
-    "id": 4,
-    "name": "Resume site",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "My resumewebsite with github pages. ",
-    "tags": ["javascript", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/mirelse/mirelse.github.io-old",
-    "demo": "https://mirelse.github.io/resume/index.html/"
-  },
+
     {
     "id": 5,
-    "name": "Portfolio",
+    "name": "Snake - Game",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "This is the source code for my personal website.",
     "tags": ["next","html5","css3", "figma","responsive design", "sass"],
-    "source_code": "https://github.com/mirelse/Tic-Tac-Toe-Game",
-    "demo": "https://mirelse.github.io/"
+    "source_code": "https://github.com/comnsense/lame-games/tree/main/ResponsiveSnake-master/",
+    "demo": "https://comnsense.github.io/lame-games/ResponsiveSnake-master/index.html"
   },
 
   {
     "id": 6,
-    "name": "VSCode Portfolio",
+    "name": "Snake - Game",
     "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "",
-    "demo": ""
-  }
+    "description": "This is the source code for my personal website.",
+    "tags": ["next","html5","css3", "figma","responsive design", "sass"],
+    "source_code": "https://github.com/comnsense/lame-games/tree/main/ResponsiveSnake-master/",
+    "demo": "https://comnsense.github.io/lame-games/ResponsiveSnake-master/index.html"
+  } 
+
+
+
+
+
+
 ]

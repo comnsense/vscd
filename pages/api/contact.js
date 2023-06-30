@@ -1,4 +1,4 @@
-const { Client } = require('@mirelse/client');
+const { Client } = require('@comnsense/client');
 
 const notion = new Client({
   auth: process.env.NOTION_API_TOKEN,
