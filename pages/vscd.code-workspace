@@ -5,7 +5,7 @@
     }
   ],
   "settings": {
-    "nuxt.isNuxtApp": false,
+    "nuxt.isNuxtApp": true,
     "gitdoc.enabled": true
   }
 }
