@@ -1,6 +1,6 @@
 [
   {
-    "id": 4,
+    "id": 1,
     "name": "Resume site",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "My resumewebsite with github pages. ",
@@ -10,7 +10,7 @@
   },
 
   {
-    "id": 1,
+    "id": 2,
     "name": "aws-node-samples",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "AWS Lambda Samples using NodeJS. List of samples ",
@@ -20,7 +20,7 @@
   },
 
   {
-    "id": 7,
+    "id": 3,
     "name": "Rock Paper And Scissor",
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "A themeable and developer-centric portfolio based on the VSCode",
@@ -29,9 +29,8 @@
     "demo": "https://comnsense.github.io/lame-games/rock-paper-scissors-master/index.html"
   },
 
-
   {
-    "id": 2,
+    "id": 4,
     "name": "Tic-Tac-Toe-Game",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.",
@@ -39,8 +38,9 @@
     "source_code": "https://github.com/comnsense/Tic-Tac-Toe-Game",
     "demo": "https://comnsense.github.io/Tic-Tac-Toe-Game/"
   },
+
     {
-    "id": 3,
+    "id": 5,
     "name": "Black & White",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "Tumblr Theme Tamplate",
@@ -50,16 +50,6 @@
   },
 
     {
-    "id": 5,
-    "name": "Snake - Game",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "This is the source code for my personal website.",
-    "tags": ["next","html5","css3", "figma","responsive design", "sass"],
-    "source_code": "https://github.com/comnsense/lame-games/tree/main/ResponsiveSnake-master/",
-    "demo": "https://comnsense.github.io/lame-games/ResponsiveSnake-master/index.html"
-  },
-
-  {
     "id": 6,
     "name": "Snake - Game",
     "image": "https://imgur.com/mKkz0iz.png",
@@ -67,11 +57,7 @@
     "tags": ["next","html5","css3", "figma","responsive design", "sass"],
     "source_code": "https://github.com/comnsense/lame-games/tree/main/ResponsiveSnake-master/",
     "demo": "https://comnsense.github.io/lame-games/ResponsiveSnake-master/index.html"
-  } 
-
-
-
-
+  }
 
 
 ]
